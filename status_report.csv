@@ -1,0 +1,5 @@
+status,orders,total_amount,avg_amount
+paid,50,12279.0,245.58
+cancelled,20,4979.5,248.975
+pending,20,4884.0,244.2
+refunded,10,2559.0,255.9
